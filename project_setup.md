@@ -102,24 +102,6 @@ Access the application at:
 - Main site: http://127.0.0.1:8000/
 - Admin interface: http://127.0.0.1:8000/admin/
 
-## Project Structure
-
-```
-Chapter/
-├── Chapter/                 # Main project directory
-├── books/                  # Books app
-├── authors/               # Authors app
-├── rentals/              # Rentals app
-├── users/               # Users app
-├── publishers/         # Publishers app
-├── categories/        # Categories app
-├── templates/        # HTML templates
-├── static/          # Static files
-├── media/          # User-uploaded files
-├── manage.py      # Django management script
-└── requirements.txt  # Project dependencies
-```
-
 ## Common Issues and Solutions
 
 ### 1. Database Connection Issues
@@ -176,16 +158,6 @@ pip freeze > requirements.txt
 4. Write tests for new features
 5. Document code changes
 
-## Deployment
-
-For production deployment:
-1. Set DEBUG = False in settings.py
-2. Configure proper database settings
-3. Set up static file serving
-4. Configure security settings
-5. Use a production-grade server (e.g., Gunicorn)
-6. Set up proper web server (e.g., Nginx)
-
 ## Support
 
 For any issues or questions:
@@ -199,7 +171,3 @@ For any issues or questions:
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License. 
