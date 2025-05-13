@@ -101,10 +101,6 @@ python3 manage.py loaddata initial_data.json
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 For any questions or concerns, please open an issue in the repository.
