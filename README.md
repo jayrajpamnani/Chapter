@@ -1,4 +1,6 @@
-**This project was completed for the course CS-GY 6083 Principles of Database Systems at New York University by Puneeth Kotha, Jayraj Pamnani, and Ilka Jean.**
+**This project was completed for the course CS-GY 6083 Principles of Database Systems at New York University by Puneeth Kotha, Jayraj Pamnani, and Ilka Jean as a part of the Course CSGY-6083 Principles of Database Systems.**
+
+**The project's business case was provided by our professor Amit Patel**
 
 # Chapter - Library Management System
 
