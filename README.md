@@ -1,4 +1,4 @@
-**Note:** The project may sound generic but it's an extensive implementation and is made with considering a real life library, is you are still not convinced, then just have glance on this README file, I hope you will like it.
+**Note:** The project may sound generic but it's an extensive implementation of a library and it's made considering a real life business case scenario, if you are still not convinced, then just have glance on this README file, I hope you will like it.
 
 
 **This project was completed for the course CS-GY 6083 Principles of Database Systems at New York University by Puneeth Kotha, Jayraj Pamnani, and Ilka Jean as a part of the Course CSGY-6083 Principles of Database Systems.**
