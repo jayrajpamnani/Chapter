@@ -46,6 +46,57 @@ A comprehensive library management system built with Django, featuring book mana
 - Admin Features
   - Dashboard and analytics
 
+## Screenshots
+
+### User Interface
+![Homepage](ChapterSS/Homepage.png)
+*Main homepage of the application*
+
+### Authentication
+![Account Login Choice](ChapterSS/AccountLoginChoice.png)
+*Login options for different user types*
+
+![Customer Login](ChapterSS/CustomerLogin.png)
+*Customer login page*
+
+![Employee Login](ChapterSS/EmployeeLogin.png)
+*Employee login page*
+
+![Author Login](ChapterSS/AuthorLogin.png)
+*Author login page*
+
+![Account Creation](ChapterSS/AccountCreationPage.png)
+*New account creation page*
+
+### Book Management
+![Available Books List](ChapterSS/AvailableBooksList.png)
+*List of available books*
+
+![Total Books Available](ChapterSS/Total%20Books%20Available%20with%20Copies%20Count%20and%20Authors.png)
+*Books overview with copies count and authors*
+
+### Study Room Management
+![Study Rooms List](ChapterSS/StudyRoomsList.png)
+*Available study rooms*
+
+![Room Reservation Form](ChapterSS/RoomReservationForm.png)
+*Study room reservation form*
+
+### Event Management
+![Event Registration Confirmation](ChapterSS/EventRegistrationConfirmationPage.png)
+*Event registration confirmation page*
+
+### Employee Dashboard
+![Employee View Dashboard](ChapterSS/EmployeeViewDashboard.png)
+*Employee dashboard view*
+
+### Rental Management
+![Rented Books List](ChapterSS/List%20of%20Books%20which%20the%20Customer%20has%20Rented%20out.png)
+*List of books rented by customers*
+
+![Invoice](ChapterSS/Invoice.png)
+*Rental invoice*
+
 ## Installation
 
 1. Clone the repository:
