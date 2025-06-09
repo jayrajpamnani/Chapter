@@ -48,6 +48,9 @@ A comprehensive library management system built with Django, featuring book mana
 
 ## Screenshots
 
+## Relational Database Model of the Project
+![Relational Model](ChapterSS/RelationalModel.png)
+
 ### User Interface
 ![Homepage](ChapterSS/Homepage.png)
 *Main homepage of the application*
