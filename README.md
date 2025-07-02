@@ -86,7 +86,7 @@ A comprehensive library management system built with Django, featuring book mana
 *Study room reservation form*
 
 ### Event Management
-![Event Registration Confirmation](ChapterSS/EventRegistrationConfirmationPage.png)
+![Event Registration Confirmation](ChapterSS/Employee View Dashboard.png)
 *Event registration confirmation page*
 
 ### Employee Dashboard
