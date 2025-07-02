@@ -90,7 +90,7 @@ A comprehensive library management system built with Django, featuring book mana
 *Event registration confirmation page*
 
 ### Employee Dashboard
-![Employee View Dashboard](ChapterSS/EmployeeViewDashboard.png)
+![Employee View Dashboard](ChapterSS/Employee View Dashboard.png)
 *Employee dashboard view*
 
 ### Rental Management
